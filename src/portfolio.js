@@ -195,9 +195,14 @@ const workExperiences = {
       date: "September 2020 – June 2023",
       desc: "Developer within the Customer Experience UI Team responsible for development and maintainence of Cloud Platform",
       descBullets: [
-        "Spearheaded Cloudbees Jenkins setup for CXUI team, facilitating robust CI/CD pipeline.",
-        "Created a JS script to gather Cloud UI performance metrics, and subsequently display in SumoLogic dashboard.",
-        "Managed switch from Saucelabs to Lambdatest, cutting test times and costs by 25% across the organization.",
+        "Contributed as a developer in Customer Experience UI team, towards the development and enhancements on Acquia Cloud Platform.",
+        "Directed a refactor of the Security page in Angular, ensuring it met new design system's standards for a more coherent user experience.",
+        "Developed and integrated an Environment Provisioning Angular component into the Subscription Management Portal.",
+        "Optimized Angular component change detection strategies across the Cloud platform, enhancing application performance by 15%.",
+        "Engineered a JS script to showcase Cloud Platform Lighthouse metrics on a SumoLogic dashboard, improving monitoring efficiency.",
+        "Led Cloudbees Jenkins setup for CXUI team, establishing a robust CI/CD pipeline to enhance software delivery.",
+        "Spearheaded the organization-wide transition from Saucelabs to Lambdatest, reducing costs by approximately 25%.",
+        "Integrated qTest into the CXUI testing suite, streamlining the process of managing test execution metrics and test case management.",
       ]
     },
     {
@@ -207,9 +212,12 @@ const workExperiences = {
       date: "August 2019 – May 2020",
       desc: "Part of the intern team responsible for developing privacy policy rating application.",
       descBullets: [
-        "Implemented a logistic regression and NLP-based solution to categorize and subsequently rate privacy policies.",
-        "Implemented a REST API for ranking privacy policy across 6 aspects of GDPR regulations.",
-        "Designed an Android application to provide end users with an interface to interact with REST API.",
+        "Led a team of interns in the creation of a Privacy Policy Risk Assessment Application, utilizing Android, REST, and NLP methodologies.",
+        "Reviewed GDPR and privacy policies to compile a comprehensive 5000-sentence in-house categorical dataset for internal use.",
+        "Designed a logistic regression model to classify the policy statements, with minimum recall of 75 across 6 categories.",
+        "Engineered LSTM network using Tensorflow to grade categorized sentences into 3 levels according to potential data privacy threat.",
+        "Implemented a Django REST API, facilitating web scraping, logistic regression, and classification functionalities using Tensorflow.",
+        "Developed an Android application enabling user interaction with the REST API, empowering users to rate privacy policies effectively.",
       ]
     },
   ]
